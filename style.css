@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(32, 32, 53);
+    color: white;
+    font-family: "Poppins";
+}
+
+nav {
+    background-color: #33335e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 0 23px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(132, 105, 184);
+    text-decoration: none;
+}
+
+
+.left{
+    font-size: 2rem;
+}
+
+.firstSection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 110px 0;
+}
+
+.firstSection>div {
+    width: 30%;
+}
+
+.leftSection {
+font-size: 18px;}
+
+.leftSection .button {
+    padding: 50px 0px;
+}
+
+.leftSection .button .btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.leftSection .btn {
+    background: #3c218b;
+    color: white;
+    font-size: 18px;
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.rightSection img {
+    width: 120%;
+}
+
+.text-yellow {
+    color: yellowgreen;
+}
+
+
+.secondSection{
+    max-width: 80vw;
+    margin: auto;
+    height: 60vh;
+
+}
+
+hr{
+    margin: 40px 80px;
+
+}
+
+.text-gray{
+    color: gray;
+}
+
+.secondSection h1{
+    font-size: xx-large;
+}
+
+main{
+    height: 280vh;
+}
+
+.secondSection .hrbox .vertical .top-image{
+    width: 38px;
+    position: relative;
+    top: 37px;
+    left: -42px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: rgb(40, 27, 82);
+}
+
+.footersection {
+    display: flex;
+    padding: 23px 122px;
+    justify-content: space-evenly;
+}
+
+.footersection ul {
+    list-style: none;
+}
+
+.footersection>div {
+    width: 223px;
+}
+
+footer .footer-website {
+    text-align: center;
+    padding: 12px 0px;
+    text-decoration: none;
+}
+
+.footer-website a {
+    color: gray;
+    /* Change to the desired color value */
+}
+
+
+#element {
+    color: rgb(87, 87, 229);
+}
