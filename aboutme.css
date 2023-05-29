@@ -53,6 +53,7 @@ nav .right ul li {
 /* Main content */
 main {
     padding: 40px;
+    height: 200px;
 }
 
 .firstSection {
