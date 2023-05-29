@@ -136,35 +136,12 @@ main{
 
 
 footer {
-    background-color: rgb(40, 27, 82);
-}
-
-.footersection {
-    display: flex;
-    padding: 23px 122px;
-    justify-content: space-evenly;
-}
-
-.footersection ul {
-    list-style: none;
-}
-
-.footersection>div {
-    width: 223px;
-}
-
-footer .footer-website {
+    background-color: #fff;
     text-align: center;
-    padding: 12px 0px;
-    text-decoration: none;
-}
+    padding: 20px 0;
+    background-color: #33335e;
+    color: white;
+    position: absolute;
+    width: 100%;
 
-.footer-website a {
-    color: gray;
-    /* Change to the desired color value */
-}
-
-
-#element {
-    color: rgb(87, 87, 229);
 }
