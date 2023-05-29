@@ -1,6 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
 }
 
 body{
@@ -106,6 +110,7 @@ hr{
 
 main{
     height: 280vh;
+    padding: 20px;
 }
 
 .secondSection .hrbox .vertical .top-image{
