@@ -108,8 +108,9 @@ font-size: 22px;}
 
 }
 
-hr{
+.hr{
     margin: 40px 80px;
+    padding: 10px;
 
 }
 
